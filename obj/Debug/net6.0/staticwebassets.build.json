@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RInm2TMLFSQTys3Wbgui0fr1gJhtK9GNB48pyiVTlGM=",
+  "Source": "AllergyMatchMaker",
+  "BasePath": "_content/AllergyMatchMaker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
